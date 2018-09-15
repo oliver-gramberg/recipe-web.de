@@ -1,0 +1,12 @@
+{
+  "id": "web.de",
+  "name": "web.de",
+  "version": "1.0.0",
+  "description": "web.de web mail",
+  "main": "index.js",
+  "author": "Oliver Gramberg <oliver.gramberg@gmx.de>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://web.de"
+  }
+}
